@@ -1,5 +1,5 @@
 body {
-  background-color: #FFCCFF, rgb(73, 197, 187);
+  background-color: #FFCCFF;
   font-family: Arial, sans-serif;
   color: #191970;
 }
@@ -22,7 +22,7 @@ body {
   font-style: normal;
   font-size: 20px;
   font-weight: 900;
-  color: lavender;
+  color: pink;
   text-shadow: 3px 2px 7px black;
   text-decoration: solid;
 }
